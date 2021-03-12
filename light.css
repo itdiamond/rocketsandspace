@@ -1,0 +1,25 @@
+body {
+	font-family: sans-serif	
+}
+h1 {
+		;text-align: center;	;font-size: 400% 
+}
+
+ul {
+	font-size: 250%; background-color: #FF4500	;border-radius: 10px
+}
+.nav {
+	display: flex;justify-content: center; list-style-type: none;
+}
+li {
+	margin-right: 40px; margin-left: 40px
+}
+a {
+	text-decoration: none;color: #000000
+}
+p {
+	font-size: 200%
+}
+.button {
+	font-size: 250%; background-color: #FF4500	;border-radius: 10px
+}

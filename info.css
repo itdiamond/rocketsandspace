@@ -1,0 +1,15 @@
+body {
+	font-family: sans-serif;background-color: #000000; color: ghostwhite
+}
+h1 {
+		;text-align: center;	;font-size: 300% ; background-color: #FF4500	;border-radius: 70px
+}
+.id {
+	font-size: 200%; color: #FF4500	 
+}
+p {
+	font-size: 150%
+}
+a {
+	text-decoration: none;color: #F8F8FF; background-color: #FF4500	; border-radius: 70px; font-size: 200%; padding: 10px
+}
